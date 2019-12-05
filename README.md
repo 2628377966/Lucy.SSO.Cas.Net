@@ -22,8 +22,8 @@
 
 登录成功后跳转提示登录成功
 
-![Q3jKGn.png](https://s2.ax1x.com/2019/12/05/Q3jKGn.png)
-![Q3juPs.png](https://s2.ax1x.com/2019/12/05/Q3juPs.png)
+[![Q3vKTe.png](https://s2.ax1x.com/2019/12/05/Q3vKTe.png)](https://imgse.com/i/Q3vKTe)
+[![Q3vuwD.png](https://s2.ax1x.com/2019/12/05/Q3vuwD.png)](https://imgse.com/i/Q3vuwD)
 
   
 
