@@ -2,33 +2,30 @@
 
 ###### 1.安装javaSE 9
 
+![Q3TGQg.png](https://s2.ax1x.com/2019/12/05/Q3TGQg.png)
+
 ###### 2.安装tomcat,推荐tomcat8.5.49
 
 浏览器输入http://127.0.0.1:8080查看tomcat
+
+![Q3TJyQ.png](https://s2.ax1x.com/2019/12/05/Q3TJyQ.png)
 
 ###### 3.github上下载cas 6.0.2版本
 
  https://github.com/apereo/cas/releases/tag/v6.0.2 
 
+![Q3TUwn.png](https://s2.ax1x.com/2019/12/05/Q3TUwn.png)
+
 ###### 4.cas服务端其实就是一个war包
 
 将下载的包解压后在moudles目录下找到 cas-server-webapp-4.0.0.war ，将其复制到tomcat目录下的webapps下。启动tomcat自动解压war包。浏览器输入http://127.0.0.1:8080/cas/login就可以看到登录页面
 
-
-
-![image-20191203173828854](C:\Users\WEIBO\AppData\Roaming\Typora\typora-user-images\image-20191203173828854.png)
-
-
-
-![image-20191203173900016](C:\Users\WEIBO\AppData\Roaming\Typora\typora-user-images\image-20191203173900016.png)
-
-![image-20191203181231829](C:\Users\WEIBO\AppData\Roaming\Typora\typora-user-images\image-20191203181231829.png)
-
- ![img](https://img-blog.csdn.net/20180822112152433?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1YW5ib3Fp/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70) 
-
 登录成功后跳转提示登录成功
 
- ![img](https://img-blog.csdn.net/20180822112216118?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1YW5ib3Fp/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70) 
+![Q3jKGn.png](https://s2.ax1x.com/2019/12/05/Q3jKGn.png)
+![Q3juPs.png](https://s2.ax1x.com/2019/12/05/Q3juPs.png)
+
+  
 
 ##### 客户端配置
 
@@ -91,11 +88,11 @@ system.webServer节点下
 
 ###### 6.启动项目，输入用户名密码登录
 
-![image-20191205105533763](C:\Users\WEIBO\AppData\Roaming\Typora\typora-user-images\image-20191205105533763.png)
+![Q3TwF0.png](https://s2.ax1x.com/2019/12/05/Q3TwF0.png)
 
 跳转
 
-![image-20191205105548309](C:\Users\WEIBO\AppData\Roaming\Typora\typora-user-images\image-20191205105548309.png)
+![Q3TBWT.png](https://s2.ax1x.com/2019/12/05/Q3TBWT.png)
 
 
 
